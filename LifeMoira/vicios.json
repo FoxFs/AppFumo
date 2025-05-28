@@ -1,0 +1,39 @@
+{
+  "vicios": [
+    {
+      "nome": "Cigarro",
+      "perda_minutos_por_evento": 11,
+      "perda_total_anos": 10
+    },
+    {
+      "nome": "Álcool",
+      "perda_minutos_por_evento": 6,
+      "perda_total_anos": 5
+    },
+    {
+      "nome": "Drogas Ilícitas",
+      "perda_minutos_por_evento": 30,
+      "perda_total_anos": 10
+    },
+    {
+      "nome": "Sedentarismo",
+      "perda_minutos_por_evento": 22,
+      "perda_total_anos": 7
+    },
+    {
+      "nome": "Má Alimentação",
+      "perda_minutos_por_evento": 10,
+      "perda_total_anos": 10
+    },
+    {
+      "nome": "Privação de Sono",
+      "perda_minutos_por_evento": 15,
+      "perda_total_anos": 7
+    },
+    {
+      "nome": "Estresse Crônico",
+      "perda_minutos_por_evento": 12,
+      "perda_total_anos": 6
+    }
+  ]
+}
